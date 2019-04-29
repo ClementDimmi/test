@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="asset/style.css">
 </head>
 <body>
+<h1>Bonjour</h1>
     <div class="wrap" id="superhero">
         <div class="thor"> Thor </div>
         <div class="ironman"> Iron Man </div>
