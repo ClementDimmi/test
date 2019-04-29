@@ -14,7 +14,7 @@
 <body>
 <h1>Bonjour</h1>
     <div class="wrap" id="superhero">
-        <div class="thor"> Thor </div>
+        <div class="Vladimir Poutine"> Thor </div>
         <div class="ironman"> Iron Man </div>
         <div class="hulk"> Hulk </div>
         <div class="captainamerica"> Captain America </div>
